@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/daniel/Documents/personnal_work/Dotnet/VehiculeWeb/VehiculeWeb.csproj",
+      "projectUniqueName": "/home/daniel/Documents/personnal_work/Dotnet/Parc-Vehicule/VehiculeWeb/VehiculeWeb.csproj",
       "projectName": "VehiculeWeb",
-      "projectPath": "/home/daniel/Documents/personnal_work/Dotnet/VehiculeWeb/VehiculeWeb.csproj",
+      "projectPath": "/home/daniel/Documents/personnal_work/Dotnet/Parc-Vehicule/VehiculeWeb/VehiculeWeb.csproj",
       "packagesPath": "/home/daniel/.nuget/packages/",
-      "outputPath": "/home/daniel/Documents/personnal_work/Dotnet/VehiculeWeb/obj/",
+      "outputPath": "/home/daniel/Documents/personnal_work/Dotnet/Parc-Vehicule/VehiculeWeb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/daniel/.nuget/NuGet/NuGet.Config"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }
