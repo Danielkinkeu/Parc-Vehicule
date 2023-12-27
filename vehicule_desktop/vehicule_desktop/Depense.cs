@@ -6,15 +6,19 @@ public class Depense
 {
 	public Depense()
     {
-    public DateTime Date { get; set; }
-    public double Montant { get; set; }
-    public string Libelle { get; set; }
+   public string code { get; set; }
+    public DateTime date { get; set; }
+    public decimal dontant { get; set; }
+    public string libelle { get; set; }
+    public string stationService { get; set; }
+    public User agentMaintenance { get; set; }
 
-    public Dépense(DateTime date, double montant, string libelle)
+    public Dépense(DateTime date, double montant, string libelle, string code)
     {
-        Date = date;
-        Montant = montant;
-        Libelle = libelle;
+        date = date;
+        code = code;
+        montant = montant;
+        libelle = libelle;
     }
 
     private string GetDebuggerDisplay()
